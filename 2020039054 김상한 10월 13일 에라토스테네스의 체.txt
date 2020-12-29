@@ -33,6 +33,7 @@ void printp(int value, char* array)
 			count += 1;
 			if ((count % 8) == 0)
 				printf("\n");
+printf("\n")
 		}
 	}
 	printf("\n");
